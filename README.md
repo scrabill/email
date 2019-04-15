@@ -9,6 +9,7 @@ These are real client examples with the company names removed.
 - [Conference example](/conference-promo/conference.html) - _[Preview](http://htmlpreview.github.io/?https://github.com/scrabill/email-samples/blob/master/conference-promo/conference.html)_
 - [Law firm newsletter example](/law-firm-newsletter/law-firm-newsletter.html) - _[Preview](http://htmlpreview.github.io/?https://github.com/scrabill/email-samples/blob/master/law-firm-newsletter/law-firm-newsletter.html)_
 - [Organization example](/org-newsletter/organization-newsletter.html) - _[Preview](http://htmlpreview.github.io/?https://github.com/scrabill/email-samples/blob/master/org-newsletter/organization-newsletter.html)_
+- [Ecommerce example](/ecommerce-promo/ecommerce-promo.html) - _[Preview](http://htmlpreview.github.io/?https://github.com/scrabill/email-samples/blob/master/ecommerce-promo/ecommerce-promo.html)_
 
 ## Design
 
